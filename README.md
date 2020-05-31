@@ -2,7 +2,7 @@
 
 
 
-**CV:** https://lucageo.github.io/lucabattistellacv/
+**CV:**
 
 **Credits**
 - [Bootstrap](http://getbootstrap.com/)
