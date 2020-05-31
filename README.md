@@ -2,7 +2,7 @@
 
 
 
-**CV:**
+**CV:**  https://egbendito.github.io/egbenditocv/
 
 **Credits**
 - [Bootstrap](http://getbootstrap.com/)
