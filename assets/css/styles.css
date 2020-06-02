@@ -114,11 +114,19 @@ p {
   margin-bottom: 15px;
 }
 .sidebar-wrapper .degree {
-  font-size: 14px;
+  font-size: 15px;
+  font-weight: 700 !important;
   margin-top: 0;
   margin-bottom: 5px;
 }
+.sidebar-wrapper .university {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 5px;
+  display: block;
+}
 .sidebar-wrapper .education-container .item {
+  font-weight: 500;
   margin-bottom: 15px;
 }
 .sidebar-wrapper .education-container .item:last-child {
@@ -132,8 +140,10 @@ p {
 }
 .sidebar-wrapper .education-container .time {
   color: rgba(255, 255, 255, 0.6);
-  font-weight: 500;
+  font-size: 13px;
+  font-weight: 0;
   margin-bottom: 0px;
+  display: block;
 }
 .sidebar-wrapper .languages-container .lang-desc {
   color: rgba(255, 255, 255, 0.6);
